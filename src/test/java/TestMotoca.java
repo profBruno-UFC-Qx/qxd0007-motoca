@@ -100,7 +100,7 @@ public class TestMotoca {
             "Não deve ser possível andar mais do que o tempo comprado.");
     }
 
-    @Testa
+    @Test
     public void testBuzinar(){
         Motoca motoca = new Motoca(5);
         assertEquals("", motoca.buzinar(),
