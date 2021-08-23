@@ -24,8 +24,8 @@ public class Motoca {
         return false;
     }
 
-    public void colocarTempo(int tempo){
-
+    public boolean colocarTempo(int tempo){
+        return false;
     }
 
     public boolean dirigir(int tempo){

@@ -35,6 +35,7 @@
 
 
 ## Diagrama
+![diagram uml](diagrama.png)
 
 ## Exemplo de execução 
 ```java
